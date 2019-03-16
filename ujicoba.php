@@ -1,0 +1,1 @@
+<head><style>.wbr_logo {position:fixed;    left: 0px;    top: 0px; }</style></head><div class="wbr_logo"><iframe data-aa='1136012' src='https://ad.a-ads.com/1136012?size=728x90' scrolling='no' style='width:728px; height:90px; border:0px; padding:0;overflow:hidden' allowtransparency='true'></iframe></div>
